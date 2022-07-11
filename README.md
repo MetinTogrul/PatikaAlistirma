@@ -1,0 +1,2 @@
+# PatikaAlistirma
+Patika Alıştırma
